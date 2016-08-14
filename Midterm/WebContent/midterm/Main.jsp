@@ -94,7 +94,7 @@
 					<c:set var="a" value="${a+rebate.amount}" />
 
 					<c:if test="${rebate.received != null}">
-						<c:set var="b" value="${b+rebate.user.amount}" />
+						<c:set var="b" value="${b+ rebate.amount}" />
 					</c:if>
 				</c:if>
 			</c:forEach>
