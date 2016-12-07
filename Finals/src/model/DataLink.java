@@ -10,7 +10,6 @@ import com.mysql.jdbc.Statement;
 
 import helper.SQLHelper;
 import helper.connectionObject;
-import sun.launcher.resources.launcher;
 
 public class DataLink
 {
