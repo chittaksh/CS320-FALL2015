@@ -42,3 +42,9 @@ Step 7.
   
          
 Step 8. Run the project on server.
+
+### Project Description:
+Lease Management System is a systm designed to manage each apartment building. It keeps track all the apartments, lease details, and rent details for each month. It also generates rent receipts for each payment done. 
+
+### Technologies Used:
+Java, Servlets, JSTL, Bootstrap, JQuery, MySQL
