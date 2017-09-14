@@ -16,3 +16,14 @@ c. Midterm - Midterm exam sample
 
 ### How to run
 
+Step 1:- Clone the repository to your local system.
+
+Step 2:- Import the specific project as "general project" in eclipse.
+
+Step 3:- Right click the project, Configure > Convert to Faceted Form.
+
+Step 4:- a. Right click the project, Properties > Project facets
+         b. Click - Dynamic Web project, Java, JavaScript
+         c. Apply and Close
+         
+Step 5:- a. Right click the project, Properties > Java Build Path
