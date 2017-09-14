@@ -27,7 +27,7 @@ Contains 1 Complete project and 2 Exam Samples for CS320-Fall-2015
 5. Right click the project, Configure > Convert to Faceted Form.
 
 6. 
-&nbsp;&nbsp;&nbsp;i. Right click the project, Properties > Project facets
+  * i. Right click the project, Properties > Project facets
   
 &nbsp;&nbsp;&nbsp;ii. Click - Dynamic Web project, Java, JavaScript
   
