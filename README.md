@@ -2,9 +2,9 @@
 
 Contains 1 Complete project and 2 Exam Samples for CS320-Fall-2015
 
-320 - Project \n
-Finals - Final exam sample \n
-Midterm - Midterm exam sample \n
+a. 320 - Project
+b. Finals - Final exam sample
+c. Midterm - Midterm exam sample
 
 ### Requirements
 1. Java v1.7 or above.
