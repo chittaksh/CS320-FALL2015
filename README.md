@@ -26,11 +26,11 @@ Step 4:- Import the specific project as "general project" in eclipse.
 
 Step 5:- Right click the project, Configure > Convert to Faceted Form.
 
-Step 6:- a) Right click the project, Properties > Project facets
-         b) Click - Dynamic Web project, Java, JavaScript
-         c) Apply and Close
+Step 6:- * Right click the project, Properties > Project facets
+         * Click - Dynamic Web project, Java, JavaScript
+         * Apply and Close
          
-Step 7:- a) Right click the project, Properties > Java Build Path
-         b) Add Library > Server Runtime > Tomcat
+Step 7:- * Right click the project, Properties > Java Build Path
+         * Add Library > Server Runtime > Tomcat
          
 Step 8:- Run the project on server.
