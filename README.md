@@ -2,9 +2,9 @@
 
 Contains 1 Complete project and 2 Exam Samples for CS320-Fall-2015
 
-a. 320 - Project
-b. Finals - Final exam sample
-c. Midterm - Midterm exam sample
+1. 320 - Project
+2. Finals - Final exam sample
+3. Midterm - Midterm exam sample
 
 ### Requirements
 1. Java v1.7 or above.
@@ -16,14 +16,21 @@ c. Midterm - Midterm exam sample
 
 ### How to run
 
-Step 1:- Clone the repository to your local system.
+Step 1:- Add Server to Eclipse Servers.
 
-Step 2:- Import the specific project as "general project" in eclipse.
+Step 2:- Add the mysql & jakarta libraries into the lib folder of the server.
 
-Step 3:- Right click the project, Configure > Convert to Faceted Form.
+Step 3:- Clone the repository to your local system.
 
-Step 4:- a. Right click the project, Properties > Project facets
+Step 4:- Import the specific project as "general project" in eclipse.
+
+Step 5:- Right click the project, Configure > Convert to Faceted Form.
+
+Step 6:- a. Right click the project, Properties > Project facets
          b. Click - Dynamic Web project, Java, JavaScript
          c. Apply and Close
          
-Step 5:- a. Right click the project, Properties > Java Build Path
+Step 7:- a. Right click the project, Properties > Java Build Path
+         b. Add Library > Server Runtime > Tomcat
+         
+Step 8:- Run the project on server.
