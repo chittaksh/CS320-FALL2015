@@ -26,7 +26,7 @@ Step 4:- Import the specific project as "general project" in eclipse.
 
 Step 5:- Right click the project, Configure > Convert to Faceted Form.
 
-Step 6:- 
+Step 6. 
         i. Right click the project, Properties > Project facets
         ii. Click - Dynamic Web project, Java, JavaScript
         iii. Apply and Close
