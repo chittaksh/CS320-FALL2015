@@ -44,7 +44,17 @@ Step 7.
 Step 8. Run the project on server.
 
 ### Project Description:
-Lease Management System is a systm designed to manage each apartment building. It keeps track all the apartments, lease details, and rent details for each month. It also generates rent receipts for each payment done. 
+#### Lease Management System (http://localhost:8080/320/hw4/Login.jsp)
+Lease Management System is a system designed to manage each apartment building. It keeps track all the apartments, lease details, and rent details for each month. It also generates rent receipts for each payment done.
+
+
+#### Finals (http://localhost:8080/Finals/Final)
+Final contains Appointment Management Application. I contains a calender structure display and you can add, edit, delete or modify a given time slot appointment. The application makes sure that their are no overlapping of the appointment and allows a user to make changes into an free time only.
+
+
+#### Midterm (http://localhost:8080/Midterm/midterm/Main)
+Midterm contains a Coupon Management Application. Each usr can add/ update/ delete/ coupons that he has. He can then keep track of each coupon if used or not.  
+
 
 ### Technologies Used:
 Java, Servlets, JSTL, Bootstrap, JQuery, MySQL
