@@ -20,7 +20,7 @@ public class DataAccess
 
 	// Connection Object
 	static connectionObject connObj = new connectionObject(
-			"jdbc:mysql://localhost/cs320stu115", "cs320", "testsite");
+			"jdbc:mysql://localhost/cs320stu115", "cs320", "demosite");
 	static Connection c = null;
 
 	public static UserDetail tryLogin(String userEmail, String password)
