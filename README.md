@@ -16,29 +16,29 @@ Contains 1 Complete project and 2 Exam Samples for CS320-Fall-2015
 
 ### How to run
 
-1. Add Server to Eclipse Servers.
+Step 1. Add Server to Eclipse Servers.
 
-2. Add the mysql & jakarta libraries into the lib folder of the server.
+Step 2. Add the mysql & jakarta libraries into the lib folder of the server.
 
-3. Clone the repository to your local system.
+Step 3. Clone the repository to your local system.
 
-4. Import the specific project as "general project" in eclipse.
+Step 4. Import the specific project as "general project" in eclipse.
 
-5. Right click the project, Configure > Convert to Faceted Form.
+Step 5. Right click the project, Configure > Convert to Faceted Form.
 
-6. 
+Step 6. 
   * i. Right click the project, Properties > Project facets
   
-&nbsp;&nbsp;&nbsp;ii. Click - Dynamic Web project, Java, JavaScript
+  * ii. Click - Dynamic Web project, Java, JavaScript
   
-&nbsp;&nbsp;&nbsp;iii. Apply and Close
+  * iii. Apply and Close
   
          
-7. 
+Step 7. 
 
-&nbsp;&nbsp;&nbsp;i. Right click the project, Properties > Java Build Path
+  * i. Right click the project, Properties > Java Build Path
   
-&nbsp;&nbsp;&nbsp;ii. Add Library > Server Runtime > Tomcat
+  * ii. Add Library > Server Runtime > Tomcat
   
          
-8. Run the project on server.
+Step 8. Run the project on server.
